@@ -1,6 +1,3 @@
-__author__ = 'Nir'
-
-
 import SocketServer
 
 class MyTCPHandler(SocketServer.BaseRequestHandler):
